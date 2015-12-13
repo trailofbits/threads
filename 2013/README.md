@@ -24,3 +24,4 @@ See the album of [all recorded talks](https://vimeo.com/album/2641157sort:preset
   - Dionysus Blazakis
   - Travis Goodspeed
   - Meredith Patterson
+* [Could a purpose-built supercomputer play DEFCON capture the flag?](https://vimeo.com/album/2641157/video/81340884) - Mike Walker, DARPA I2O
