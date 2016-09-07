@@ -37,3 +37,9 @@ The development portion of THREADS will discuss strategies to integrate security
 * [Are Attacking Using Automation More Efficiently Than Defenders?](https://vimeo.com/album/3063779/video/114523211) - Marc-Etienne M.Léveillé, ESET
 * [Automating Application Security @twitter](https://vimeo.com/album/3063779/video/114700906) - Neil Matatall, Twitter
 * [Building Your Own DFIR Sidekick](https://vimeo.com/album/3063779/video/114701077) - Scott J Roberts, Github
+
+
+## Media
+
+https://blog.trailofbits.com/2014/08/01/education-initiative-spotlight-threads-call-for-papers/
+https://blog.trailofbits.com/2014/10/02/threads-14-scaling-security/
